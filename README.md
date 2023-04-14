@@ -4,7 +4,7 @@
 
 I'm Manish, currently working at MaxMine, as a Frontend Developer working on client facing products and maintaining frontend code bases that positively impacts thousands of end users. As someone who began my career as a software engineer at a young age by experimenting with computers, I was always fascinated by the potential for automation to simplify complex processes. Starting out with developing basic systems, I gradually added complexity over time, continually exploring new ways to automate and streamline operations and create more efficient solutions.
 
-In the last 2 years, I began my professional career developing Responsive Websites using HTML, CSS and Javascript. Over time I began exploring with more Javascript frameworks and technologies to streamline the development process. I like to be involved in all stages of the development life cycle, from the ideation, initial design and planning stage all the way to development, testing and deployment. 
+In the last 3 years, I began my professional career developing Responsive Websites using HTML, CSS and Javascript. Over time I began exploring with more Javascript frameworks and technologies to streamline the development process. I like to be involved in all stages of the development life cycle, from the ideation, initial design and planning stage all the way to development, testing and deployment. 
 
 ---
 
