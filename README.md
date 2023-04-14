@@ -2,10 +2,11 @@
 
 **`Software Engineer`**
 
-I'm Manish, currently working at MaxMine, as a Frontend Developer working on client facing products and maintaining frontend code bases that positively impacts thousands of end users. As someone who began my career as a software engineer at a young age by experimenting with computers, I was always fascinated by the potential for automation to simplify complex processes. Starting out with developing basic systems, I gradually added complexity over time, continually exploring new ways to automate and streamline operations and create more efficient solutions.
+Hello! My name is Manish and I have a passion for crafting digital experiences that thrive on the internet. My journey into web development began as early as 2014 when I was introduced to HTML and CSS in middle school. After tinkering with technologies like Adobe Dreamweaver I took an interest in JavaScript and started learning the basics of programming. Fast forward almost a decade later and I have had the opportunity to work in a successful startup, a marketing agency and an amazing software company in the last 3 years.
 
-In the last 3 years, I began my professional career developing Responsive Websites using HTML, CSS and Javascript. Over time I began exploring with more Javascript frameworks and technologies to streamline the development process. I like to be involved in all stages of the development life cycle, from the ideation, initial design and planning stage all the way to development, testing and deployment. 
+I'm all about automating and streamlining processes, ensuring high standards in code quality, and building scalable digital products that work for everyone. I am also proud of my personal project, TimeBox, which is a sleek timeboxing app designed to enhance productivity. 
 
+Here are the tools, technologies, libraries and frameworks I've worked with:
 ---
 
 ### 🧰 Languages and Tools
